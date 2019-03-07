@@ -6,10 +6,10 @@
   2.包含数据排序、分页的功能；
   
   3.包含按条件进行数据筛选的功能；
-  
-  4.前端分页插件使用Bootgrid，前端框架使用Bootstrap；
-  
-  5.使用时，先开启mongoDB;
+
+  4.前端分页插件使用Bootgrid，前端框架使用Bootstrap；
+
+  5.使用时，先开启mongoDB;
   
   6.页面访问入口http://localhost:8081/mongodb/index
   

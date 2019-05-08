@@ -57,7 +57,7 @@
 18. 23种设计模式，源码、注释、使用场景（[购买](https://www.fageka.com/store/item/s/id/TuSSL2r3330.html)）
 19. [使用ETL工具Kettle的实例](https://gitee.com/shenzhanwang/Kettle-demo)
 20. Git指南和分支管理策略（[购买](https://www.fageka.com/store/item/s/id/Z7uh2iF1620.html)）
-21. 使用数据仓库进行OLAP数据分析（[购买](https://www.fageka.com/store/item/s/id/Z7uh2iF1620.html)）![输入图片说明](https://img.shields.io/badge/-%E7%B2%BE%E5%93%81-orange.svg "在这里输入图片标题")
+21. 使用数据仓库进行OLAP数据分析（Mysql+Kettle+Zeppelin）（[购买](https://www.fageka.com/store/item/s/id/malQqky4959.html)）![输入图片说明](https://img.shields.io/badge/-%E7%B2%BE%E5%93%81-orange.svg "在这里输入图片标题")
 #### 高级篇：架构之美
 22. [zookeeper原理、架构、使用场景和可视化](https://gitee.com/shenzhanwang/zookeeper-practice)
 23. Spring框架整合dubbo框架实现分布式服务治理（SOA架构）（[购买](https://www.fageka.com/store/item/s/id/tTEHOF42241.html)）![输入图片说明](https://img.shields.io/badge/-%E7%B2%BE%E5%93%81-orange.svg "在这里输入图片标题")
